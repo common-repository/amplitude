@@ -1,0 +1,20 @@
+.aampli-plg-des {
+    color: #646970;
+}
+
+.aampli-plg-des li {
+    color: #646970;
+}
+
+.aampl-custom-class {
+    display: flex;
+    gap: 10px;
+}
+
+.aampl-custom-class input {
+    cursor: pointer;
+}
+
+#aampl-plg-sample-rate-display {
+    width: 15px;
+}

@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<input name="<?php echo esc_attr( $name ); ?>" type="checkbox" id="main_panel_enabled" value="1" <?php checked(1, $settings['main_panel_enabled']); ?>/>
